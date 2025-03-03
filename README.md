@@ -7,7 +7,7 @@ Year: Junior IT - D
 Images below are the screenshots of the app running in time: 
 
 ## Home Page 
-<img src="ss\home.png>">
+<img src="ss\home.png">
 
 ## footer Page 
 <img src="ss\footer.png">
