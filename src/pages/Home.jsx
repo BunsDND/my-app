@@ -40,10 +40,6 @@ export default function Home() {
           <li key={index} className="fact-item">{fact}</li>
         ))}
       </ul>
-
-      <div className="image-container">
-        <img src="https://media.istockphoto.com/id/1399292810/photo/group-of-wildlife-animals-in-the-jungle-together.jpg?s=612x612&w=0&k=20&c=NXVzp7awiZhUf-OjcSmaDTcWz3h_XyGcozlTFD883eg=" alt="Random" className="random-image" />
-      </div>
     </div>
   );
 }

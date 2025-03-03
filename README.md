@@ -1,8 +1,19 @@
-# React + Vite
+# Activity #1 in Web2 
+Proffesor: Mr. Cecil Uy
+Student: Vanni Louise Tanutan 
+Year: Junior IT - D
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Images below are the screenshots of the app running in time: 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Home Page 
+<img src="ss\home.png>">
+
+## footer Page 
+<img src="ss\footer.png">
+
+## Home.jsx 
+<img src="ss\home.jsx.png">
+
+## Directory 
+<img src="ss\directory.png">
