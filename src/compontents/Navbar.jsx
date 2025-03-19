@@ -7,11 +7,12 @@ import Navbar from "react-bootstrap/Navbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
 import "bootstrap/dist/css/bootstrap.min.css";
 
+
 export default function () {
   return (
     <Navbar expand="lg" className="bg-body-secondary">
       <Container fluid>
-        <Navbar.Brand href="#">Navbar scroll</Navbar.Brand>
+        <Navbar.Brand href="#">Random Facts</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
@@ -19,21 +20,21 @@ export default function () {
             style={{ maxHeight: "100px" }}
             navbarScroll
           >
-            <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="#action2">Profile</Nav.Link>
-            <NavDropdown title="Link" id="navbarScrollingDropdown">
-              <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
-              <NavDropdown.Item href="#action4">
-                Another action
+            <Nav.Link href="/">All</Nav.Link>
+            <Nav.Link href="./Animals">Animals</Nav.Link>
+            <Nav.Link href="./Space">Space</Nav.Link>
+            <Nav.Link href="./History">History</Nav.Link>
+            <NavDropdown title="More" id="navbarScrollingDropdown">
+              <NavDropdown.Item href="./Technology">Technology</NavDropdown.Item>
+              <NavDropdown.Item href="./Food">
+                Foods
               </NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="#action5">
-                Something else here
+                About Me
               </NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link href="#" disabled>
-              Link
-            </Nav.Link>
+            
           </Nav>
           <Form className="d-flex">
             <Form.Control
