@@ -26,6 +26,6 @@ Images below are the screenshots of the app running in time:
 <img src="ss\update-act-2.png">
 
 
-**Please note that when I completed my Act 1, I already had a defined purpose for my website, which I successfully passed with the 'Random Fact' theme. For Act 2, I have only provided my Act 1 and added additional pages.**
+_Please note that when I completed my Act 1, I already had a defined purpose for my website, which I successfully passed with the 'Random Fact' theme. For Act 2, I have only provided my Act 1 and added additional pages._
 
 for the screenshot of the 'Home Page Code', i forgot to screenshot it before i commit the repo to my github :)
