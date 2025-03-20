@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import Home from './pages/Home'
 import Navbar from './compontents/Navbar'
 import Footer from './compontents/Footer'
@@ -8,6 +8,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Technology from './pages/Technology'
 import Food from './pages/Food'
 import History from './pages/History'
+import About from './pages/About'
 
 
 export default function App() {
@@ -22,6 +23,7 @@ export default function App() {
         <Route path="/History" element={<History />} />
         <Route path="/Technology" element={<Technology />} />
         <Route path="/Food" element={<Food />} />
+        <Route path="/About" element={<About />} />
       </Routes>
     </div>
     <Footer/>

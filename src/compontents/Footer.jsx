@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Footer.css'; // Ensure this file exists for custom styles
@@ -28,7 +28,7 @@ const Footer = () => {
             <ul className="list-unstyled">
               <li><a target="_blank" rel="noopener noreferrer" href="https://web.facebook.com/buns.louise">Facebook</a></li>
               <li><a target="_blank" rel="noopener noreferrer" href="https://github.com/BunsDND">Github</a></li>
-              <li><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/bunsdnd/">Instagram</a></li>
+              <li><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/bansee_html/">Instagram</a></li>
             </ul>
           </Col>
         </Row>
